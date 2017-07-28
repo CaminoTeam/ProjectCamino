@@ -25,5 +25,11 @@
       <Info>A 2 player game of classic rock paper scissors with embedded VR technology</Info>
       <ImageLink>http://45.76.152.184/rps.jpg</ImageLink>
     </ClGame>
+    <ClGame>
+      <DLLink>http://45.76.152.184/bigtwo.zip</DLLink>
+      <Name>Big Two</Name>
+      <Info>A classic poker game of orient origins</Info>
+      <ImageLink>http://45.76.152.184/bigtwo.jpg</ImageLink>
+    </ClGame>
   </GameList>
 </ClGameList>
